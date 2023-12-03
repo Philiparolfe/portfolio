@@ -14,7 +14,7 @@
 					</p>
 				</div>
 			</div>
-			<div class="flex flex-row justify-between place-content-between">
+			<div class="flex lg:flex-row flex-col justify-between place-content-between">
 				<div class="p-1">
 					<h2 class="h2">Education</h2>
 					<p>George Brown College</p>
@@ -47,7 +47,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="flex justify-center">
+			<div class="flex lg:flex-row flex-col justify-center">
 				<div class="p-1">
 					<h2 class="h2">Technical Skills</h2>
 					<ul class="list">
