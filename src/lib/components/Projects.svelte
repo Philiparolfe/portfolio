@@ -3,7 +3,7 @@
 		<div class="p-3 ">
 			<h1 class="h1 text-primary-500 mb-4 text-center">Projects</h1>
 			<section class="">
-				<a href="https://app.speakscriber.click/login">
+				<a href="https://app.speakscriber.click/login" target="_blank" rel="noopener noreferrer">
 					<h4 class="h4 text-primary-400 hover:text-primary-300">SpeakScriber.click</h4>
 				</a>
 
@@ -28,7 +28,7 @@
 				<hr class="!border-dotted my-5" />
 			</section>
 			<section class="">
-				<a href="https://github.com/Philiparolfe/audio-reactive-light-show">
+				<a href="https://github.com/Philiparolfe/audio-reactive-light-show" target="_blank" rel="noopener noreferrer">
 					<h4 class="h4 text-primary-400 hover:text-primary-300">
 						Audio Reactive Light Show using Python
 					</h4>
@@ -49,13 +49,13 @@
 						Video Demo
 					</h3></a
 				>
-				<iframe class=" " width="169" height="300" src="https://youtube.com/embed/KVRlYKLWhZY?si=qiTylGCtGurkLDsD"> </iframe>
+				<iframe title="Philip Rolfe" class=" " width="169" height="300" src="https://youtube.com/embed/KVRlYKLWhZY?si=qiTylGCtGurkLDsD"> </iframe>
                 </div>
 
 				<hr class="!border-dotted my-5" />
 			</section>
 			<section class="">
-				<a href="https://github.com/Philiparolfe/Auto-grow">
+				<a href="https://github.com/Philiparolfe/Auto-grow" target="_blank" rel="noopener noreferrer">
 					<h4 class="h4 text-primary-400 hover:text-primary-300">Auto-Grow</h4>
 				</a>
 

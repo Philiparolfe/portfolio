@@ -16,7 +16,7 @@ import Projects from '$lib/components/Projects.svelte';
 					<Avatar class=" shadow-2xl" src="https://avatars.githubusercontent.com/u/98795019?v=4" width="w-56" rounded="rounded-full" />
 				</div>
 			</div>
-			<h1 class="h1 text-primary-500 mb-4 text-center">My name is Philip Rolfe</h1>
+			<h1 class="h1 text-primary-500 mb-4 text-center">my name is Philip Rolfe</h1>
 			
 			<p class="lg:max-w-prose">
 				I am a computer systems technology student with a passion for all things technological. I'm
