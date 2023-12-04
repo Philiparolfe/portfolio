@@ -33,13 +33,14 @@ import Projects from '$lib/components/Projects.svelte';
 <hr class="!border-dotted my-5" />
 <Projects />
 <hr class="!border-dotted my-5" />
+<Contact />
+<hr class="!border-dotted my-5" />
 <Resume />
 <hr class="!border-dotted my-5" />
 <Certs />
 
 <hr class="!border-dotted my-5" />
-<Contact />
-<hr class="!border-dotted my-5" />
+
 	<div class="fixed bottom-0 right-0 h-16 w-16 ...">
 		<a href="#top">
 			<div class="btn variant-filled-primary p-4">Top</div>
