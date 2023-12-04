@@ -36,8 +36,8 @@
 
 				<p>
 					Python script that utilizes the gpiozero, pyaudio, and numpy libraries to create an
-					audio-controlled light show using a Raspberry Pi (or similar single-board computer) and a
-					relay module. The code monitors audio input and controls relays based on specified
+					audio-controlled light show using a Raspberry Pi (or similar single-board computer), 
+					a relay board, and a USB audio interface. The code monitors audio input and controls relays based on specified
 					frequency ranges and amplitude thresholds, synchronizing the lights with the audio.
 				</p>
                 <div class="flex flex-col justify-center items-center">
@@ -60,8 +60,8 @@
 				</a>
 
 				<p>
-					a dynamic web application that I developed using Python and Svelte to monitor and control
-					an innovative organic mushroom grow bin. This user-friendly interface empowers growers by
+					a dynamic web application that I developed with Svelte and a Raspberry pi zero w to monitor and control
+					an innovative organic mushroom grow bin wirelessly. This user-friendly interface empowers growers by
 					providing real-time insights into crucial environmental parameters such as temperature and
 					humidity, essential for optimizing the mushroom cultivation process. Additionally, the app
 					features a simple UV light control system, allowing users to fine-tune the lighting
