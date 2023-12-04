@@ -77,7 +77,7 @@
 					</ul>
 				</div>
 			</div>
-			<h2 class="  text-secondary-500">Work Experience</h2>
+			<h2 class=" h2 text-secondary-500">Work Experience</h2>
 
 			<h3 class="text-secondary-300">Tini’s Treats | Farmers Market | Milton | 2023</h3>
 			<ul class=" list ml-5">
