@@ -17,14 +17,16 @@
 			</div>
 			<div class="flex lg:flex-row flex-col justify-between place-content-between">
 				<div class="p-1">
-					<h2 class="h2 text-secondary-500">Education</h2>
+					<h2 id="gbc" class="h2 text-secondary-500">Education</h2>
 					<p>George Brown College</p>
 					<p>Toronto, Ontario</p>
 					<p>Advanced Diploma in Computer Systems Technology 2025 (current student)</p>
 					<br />
+					<!--
 					<p>Peel Alternative North</p>
 					<p>Brampton, Ontario</p>
 					<p>OSSGD 2017</p>
+					-->
 				</div>
 				<div class="p-1">
 					<h2 class="h2 text-secondary-500">Academic Projects</h2>

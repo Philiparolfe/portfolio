@@ -1,4 +1,5 @@
 <script>
+	import Certs from '$lib/components/Certs.svelte';
 	import Contact from '$lib/components/Contact.svelte';
 import Projects from '$lib/components/Projects.svelte';
 	import Resume from '$lib/components/Resume.svelte';
@@ -33,6 +34,9 @@ import Projects from '$lib/components/Projects.svelte';
 <Projects />
 <hr class="!border-dotted my-5" />
 <Resume />
+<hr class="!border-dotted my-5" />
+<Certs />
+
 <hr class="!border-dotted my-5" />
 <Contact />
 <hr class="!border-dotted my-5" />
