@@ -7,8 +7,8 @@ import Projects from '$lib/components/Projects.svelte';
 </script>
 
 <hr class="!border-dotted my-5" />
-<section class="flex justify-center items-center my-7 lg:mx-32">
-	<div class="p-4 card shadow-2xl flex flex-col justify-between">
+<section class="flex justify-center items-center my-7 lg:mx-32 ">
+	<div class="p-4 card shadow-2xl flex flex-col justify-between ">
 		<div class="p-3">
 			<div class="">
 				<div class="flex items-center justify-center place-content-center my-2">
@@ -17,7 +17,7 @@ import Projects from '$lib/components/Projects.svelte';
 			</div>
 			<h1 class="h1 text-primary-500 mb-4 text-center">My name is Philip Rolfe</h1>
 			
-			<p class="">
+			<p class="lg:max-w-prose">
 				I am a computer systems technology student with a passion for all things technological. I'm
 				currently studying for an advanced diploma in this field and actively seeking out innovative
 				& stimulating endeavours. I'm eager to further develop my skills as a tech-savvy

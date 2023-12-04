@@ -11,7 +11,7 @@
 </script>
 <svelte:head>{@html `<script>${autoModeWatcher.toString()} autoModeWatcher();</script>`}</svelte:head>
 
-<section class="mx-4 lg:mx-10 p-4 ">
+<section class="mx-4  p-4 ">
 	<AppShell>
 		<svelte:fragment slot="header">
 			<Header />

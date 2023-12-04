@@ -1,11 +1,12 @@
 <section id="projects" class="flex my-7 lg:mx-32">
-	<div class="p-4 card">
+	<div class="p-4 card lg:p-10">
 		<div class="flex flex-col gap-3">
 			<h1 id="resume" class="h1 text-primary-500 mb-4 text-center">Resume</h1>
+			<hr class="!border-dotted " />
 
 			<div class="flex flex-row justify-between place-content-between">
 				<div class="p-1">
-					<h2 class="h2">Objective</h2>
+					<h2 class="h2 text-secondary-500">Objective</h2>
 					<p class="">
 						Dedicated and detail-oriented student seeking part-time employment in a dynamic role.
 						Eager to apply my skills and knowledge in identifying, analyzing, and maintaining secure
@@ -16,7 +17,7 @@
 			</div>
 			<div class="flex lg:flex-row flex-col justify-between place-content-between">
 				<div class="p-1">
-					<h2 class="h2">Education</h2>
+					<h2 class="h2 text-secondary-500">Education</h2>
 					<p>George Brown College</p>
 					<p>Toronto, Ontario</p>
 					<p>Advanced Diploma in Computer Systems Technology 2025 (current student)</p>
@@ -26,8 +27,8 @@
 					<p>OSSGD 2017</p>
 				</div>
 				<div class="p-1">
-					<h2 class="h2">Academic Projects</h2>
-					<p>Computer Systems Technology Program, George Brown College</p>
+					<h2 class="h2 text-secondary-500">Academic Projects</h2>
+					<p class="h4 text-secondary-300">Computer Systems Technology Program, George Brown College</p>
 					<ul class=" list">
 						<li>Developed and presented IT best practices.</li>
 						<li>
@@ -49,7 +50,7 @@
 			</div>
 			<div class="flex lg:flex-row flex-col justify-center">
 				<div class="p-1">
-					<h2 class="h2">Technical Skills</h2>
+					<h2 class="h2 text-secondary-500">Technical Skills</h2>
 					<ul class="list">
 						<li>Security Technologies: Firewall, Encryption, antivirus</li>
 						<li>Operating Systems: Windows Server 2016, Enterprise Linux (openSUSE)</li>
@@ -65,7 +66,7 @@
 				</div>
 
 				<div class="p-1">
-					<h2 class="h2">Soft Skills</h2>
+					<h2 class="h2 text-secondary-500">Soft Skills</h2>
 					<ul>
 						<li>Strong Analytical and Critical Thinking</li>
 						<li>Effective Communication and Team Collaboration</li>
@@ -74,9 +75,9 @@
 					</ul>
 				</div>
 			</div>
-			<h2 class=" h2">Work Experience</h2>
+			<h2 class="  text-secondary-500">Work Experience</h2>
 
-			<h3>Tini’s Treats | Farmers Market | Milton | 2023</h3>
+			<h3 class="text-secondary-300">Tini’s Treats | Farmers Market | Milton | 2023</h3>
 			<ul class=" list ml-5">
 				<li>
 					Provided customer service by answering questions, offering recommendations, and handling
@@ -90,7 +91,7 @@
 				</li>
 			</ul>
 			<br />
-			<h3>Tini’s Treats | Farmers Market | Woodbridge | 2022</h3>
+			<h3 class="text-secondary-300">Tini’s Treats | Farmers Market | Woodbridge | 2022</h3>
 			<ul class=" list ml-5">
 				<li>
 					Offered outstanding customer service by addressing inquiries, suggesting coffee choices,
@@ -103,6 +104,7 @@
 					with both vendors and customers.
 				</li>
 			</ul>
+			<hr class="!border-dotted mt-2" />
 		</div>
 	</div>
 </section>
