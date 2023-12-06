@@ -79,21 +79,7 @@
 			</div>
 			<h2 class=" h2 text-secondary-500">Work Experience</h2>
 
-			<h3 class="text-secondary-300">Tini’s Treats | Farmers Market | Milton | 2023</h3>
-			<ul class=" list ml-5">
-				<li>
-					Provided customer service by answering questions, offering recommendations, and handling
-					transactions.
-				</li>
-				<li>Ensured the cleanliness and organization of the market area.</li>
-				<li>Assisted with the packing and unpacking of goods.</li>
-				<li>
-					Demonstrated strong communication skills and maintained a positive attitude while
-					interacting with vendors and customers.
-				</li>
-			</ul>
-			<br />
-			<h3 class="text-secondary-300">Tini’s Treats | Farmers Market | Woodbridge | 2022</h3>
+			<h3 class="text-secondary-300">Tini’s Treats | Farmers Market | Woodbridge & Milton | 2022-2023</h3>
 			<ul class=" list ml-5">
 				<li>
 					Offered outstanding customer service by addressing inquiries, suggesting coffee choices,
@@ -104,6 +90,33 @@
 				<li>
 					Showcased robust communication skills and maintained a positive attitude in interactions
 					with both vendors and customers.
+				</li>
+			</ul>
+			<hr class="!border-dotted mt-2" />
+			<h3 class="text-secondary-300">Order Picker | Coca-Cola | Brampton | 2021</h3>
+			<ul class=" list ml-5">
+				<li>
+					Utilized RF scanners to locate and retrieve specific products from inventory.
+				</li>
+				<li>Ensured accurate picking of customer orders based on established guidelines.</li>
+				<li>Conducted regular inventory checks and maintained accurate records.</li>
+				<li>
+					Followed safety protocols and maintained a clean and organized work area.
+				</li>
+			</ul>
+			<hr class="!border-dotted mt-2" />
+			<h3 class="text-secondary-300">Machine Operator | AIB Co | Mississauga | 2019</h3>
+			<ul class=" list ml-5">
+				<li>
+					Operated cutting and trimming machines.
+				</li>
+				<li> Ensured proper functioning and maintenance of 
+					equipment.
+					</li>
+				<li>Conducted regular inventory checks and maintained accurate records.</li>
+				<li>
+					ollowed safety protocols and maintained a clean 
+work area.
 				</li>
 			</ul>
 			<hr class="!border-dotted mt-2" />
