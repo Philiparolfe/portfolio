@@ -35,7 +35,7 @@
 				</a>
 
 				<p>
-					Python script that utilizes the gpiozero, pyaudio, and numpy libraries to create an
+					python script that utilizes the gpiozero, pyaudio, and numpy libraries to create an
 					audio-controlled light show using a Raspberry Pi (or similar single-board computer), 
 					a relay board, and a USB audio interface. The code monitors audio input and controls relays based on specified
 					frequency ranges and amplitude thresholds, synchronizing the lights with the audio.

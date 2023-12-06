@@ -56,16 +56,18 @@
 				<div class="p-1">
 					<h2 class="h2 text-secondary-500">Technical Skills</h2>
 					<ul class="list">
-						<li>Security Technologies: Firewall, Encryption, antivirus</li>
-						<li>Operating Systems: Windows Server 2016, Enterprise Linux (SUSE)</li>
+						
+						<li><strong class=" font-semibold mr-1">Security Technologies: </strong> Firewall, Encryption, antivirus</li>
+						<li><strong class=" font-semibold mr-1">Operating Systems:</strong> Windows Server 2016, Enterprise Linux (SUSE)</li>
 						<li class="">
-							Networking: network infrastructure, routing/switching technologies,<br /> WAN technologies,
-							network security, troubleshooting, VLANs, VPNs
+							<strong class=" font-semibold mr-1">Networking:</strong> network infrastructure, routing/switching technologies, 
 						</li>
-						<li>Databases: Postgres, SQLite</li>
-						<li>Scripting: PowerShell, Bash, Python, JavaScript</li>
-						<li>Web Technologies: HTML, CSS, Svelte</li>
-						<li>Applications: Microsoft Office Suite</li>
+						<li>WAN technologies,
+							network security, troubleshooting, VLANs, VPNs</li>
+						<li><strong class=" font-semibold mr-1">Databases:</strong> Postgres, SQLite</li>
+						<li><strong class=" font-semibold mr-1">Scripting:</strong> PowerShell, Bash, Python, JavaScript</li>
+						<li><strong class=" font-semibold mr-1">Web Technologies:</strong> HTML, CSS, Svelte</li>
+						<li><strong class=" font-semibold mr-1">Applications:</strong> Microsoft Office Suite</li>
 					</ul>
 				</div>
 
