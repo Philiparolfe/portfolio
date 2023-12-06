@@ -1,6 +1,6 @@
 <section id="projects" class="flex justify-center items-center my-7 lg:mx-32">
 	<div class="p-4 card flex justify-between">
-		<div class="p-3 ">
+		<div class="p-3 2xl:px-32">
 			<h1 class="h1 text-primary-500 mb-4 text-center">Projects</h1>
 			<section class="">
 				<a href="https://app.speakscriber.click/login" target="_blank" rel="noopener noreferrer">
