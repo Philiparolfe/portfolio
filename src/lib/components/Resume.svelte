@@ -8,7 +8,7 @@
 				<div class="p-1">
 					<h2 class="h2 text-secondary-500">Objective</h2>
 					<p class=" xl:pr-96">
-						Dedicated and detail-oriented student seeking part-time employment in a dynamic role.
+						Dedicated and detail-oriented student seeking employment in a dynamic role.
 						Eager to apply my skills and knowledge in identifying, analyzing, and maintaining secure
 						computing environments. Open to diverse opportunities that allow me to contribute
 						effectively while gaining valuable experience in a part-time capacity.
